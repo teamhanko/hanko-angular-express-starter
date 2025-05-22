@@ -1,0 +1,52 @@
+{
+  "hash": "bac8d525",
+  "configHash": "7f5692c0",
+  "lockfileHash": "c335e906",
+  "browserHash": "15d2bc9d",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "084424ad",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "d787b977",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "403c67ef",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "88e875c3",
+      "needsInterop": false
+    },
+    "@teamhanko/hanko-elements": {
+      "src": "../../../../../../node_modules/@teamhanko/hanko-elements/dist/elements.js",
+      "file": "@teamhanko_hanko-elements.js",
+      "fileHash": "08f68354",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-THXJ5FUV": {
+      "file": "chunk-THXJ5FUV.js"
+    },
+    "chunk-6KR7AJK2": {
+      "file": "chunk-6KR7AJK2.js"
+    },
+    "chunk-Q3JW5OIQ": {
+      "file": "chunk-Q3JW5OIQ.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}

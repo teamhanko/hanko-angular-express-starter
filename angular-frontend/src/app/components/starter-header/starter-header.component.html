@@ -1,0 +1,15 @@
+<div class="starterHeader">
+  <div class="headerGap"></div>
+  <div class="userMenu">
+    <div class="userInfo">
+      <h1>{{ email }}</h1>
+      <img src="/userpfp.png" alt="User profile" />
+      <img src="/expand.png" alt="Expand" class="expandIcon" />
+    </div>
+    <div class="userDropdown">
+      <button *ngIf="!isDashboard" (click)="navigate('/dashboard')">Dashboard</button>
+      <button *ngIf="isDashboard" (click)="navigate('/profile')">Profile</button>
+      <button (click)="logout()">Sign-Out</button>
+    </div>
+  </div>
+</div>

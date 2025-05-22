@@ -1,0 +1,5 @@
+export const environment = {
+  production: false,
+  HANKO_API_URL: 'YOUR HANKO URL',
+  BACKEND_URL: 'YOUR BACKEND URL'
+};
