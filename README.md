@@ -83,7 +83,7 @@ pnpm dev
 
 1. Start the application:
 
-   - Access the application by navigating to `http://localhost:5173` in your web browser.
+   - Access the application by navigating to `http://localhost:4200` in your web browser.
 
 2. Navigate to login page and experience Hanko Authentication.
 
